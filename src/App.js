@@ -20,7 +20,7 @@ function App() {
 
         <div class="mt-10">
           <p>
-            <span class="italic font-bold">One line about me:</span> You might not find me deveoping a solution, but you will definitely find me solving a problem.
+            <span class="italic font-bold">One line that describes me:</span> You might not find me deveoping a solution, but you will definitely find me solving a problem.
           </p>
         </div>
 
