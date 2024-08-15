@@ -13,6 +13,9 @@ function App() {
           <a href="https://facebook.com" className="text-blue-600 hover:text-blue-800">
             <FaFacebook size={30} />
           </a>
+          <a href="https://facebook.com" className="text-blue-600 hover:text-blue-800">
+            <FaFacebook size={30} />
+          </a>
         </div>
         {/* <h2 class="text-xl font-bold mb-4">Card Title</h2>
     <p class="text-gray-700">This is a card sitting on top of the screen.</p> */}
